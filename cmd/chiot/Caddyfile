@@ -1,0 +1,12 @@
+{
+    order chiot last
+}
+
+localhost {
+	
+    chiot / {
+        root /path/to/root
+    }
+}
+
+
