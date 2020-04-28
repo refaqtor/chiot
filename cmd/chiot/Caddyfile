@@ -4,8 +4,7 @@
 
 localhost {
 	
-    chiot / {
-        root /path/to/root
+    i2c / {
     }
 }
 
